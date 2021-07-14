@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612894313615",
+    "project_id": "foresee-cycle",
+    "storage_bucket": "foresee-cycle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612894313615:android:9e08f2fce4b1997b9cf4fa",
+        "android_client_info": {
+          "package_name": "com.example.foresee_cycles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612894313615-2crcq1ole05qfp2hc1ttt6trb6216p8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnqyuSv0_7UuSGRh9BvC5AmO8uZsPgqIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612894313615-2crcq1ole05qfp2hc1ttt6trb6216p8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
